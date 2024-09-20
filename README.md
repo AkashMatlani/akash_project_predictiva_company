@@ -1,4 +1,4 @@
-# akash_project_predictiva_company
+# GetX code
 
 A new Flutter project.
 
